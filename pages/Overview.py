@@ -26,7 +26,7 @@ st.set_page_config(
 )
 
 # Importing data creatig a safety copy of the dataframe
-path = 'data\zomato.csv'
+path = 'data/zomato.csv'
 df_0 = pd.read_csv(path, sep=',', decimal='.')
 df = df_0.copy()
 
