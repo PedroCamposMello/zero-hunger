@@ -49,7 +49,7 @@ O dashboard foi desenvolvido utilizando as métricas que refletem as 4 principai
 
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. 
 
-O painel pode ser acessado através desse link: 
+O painel pode ser acessado através desse link: https://zero-hunger-at6bpu2u9tmxwgtjs8ywaf.streamlit.app/
 
 # 6. Conclusão
 
